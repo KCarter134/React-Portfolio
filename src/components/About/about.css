@@ -1,0 +1,24 @@
+#about {
+    background-color: #1f1f1f;
+    height: 90vh;
+    color: white;
+}
+
+.name-title {
+    padding-top: 8vh;
+    font-size: 2vw;
+}
+
+.image-container img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-top: 3vh;
+}
+
+.text-container {
+    margin-top: 3vh;
+    margin-right: 35vw;
+    margin-left: 35vw;
+    font-size: .9vw;
+}
